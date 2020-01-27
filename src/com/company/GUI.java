@@ -363,7 +363,7 @@ public class GUI extends Application {
     }
 
     public void readFromFile() {
-        File file = new File("F:\\FCI\\CPU_Schedulers_Simulator_A3\\src\\com\\company\\input.txt");
+        File file = new File("/home/seif/Desktop/projects/OS/CPU_Schedulers_Simulator_A3/src/com/company/input.txt");
         Scanner readFile = null;
         try {
             readFile = new Scanner(file);

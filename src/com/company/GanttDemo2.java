@@ -66,7 +66,7 @@ public class GanttDemo2 extends ApplicationFrame {
         plot.setRenderer(renderer);
         plot.setBackgroundPaint(Color.lightGray);
         BufferedImage chartImage =  chart.createBufferedImage(900,270,null);
-        File file = new File("F:\\FCI\\CPU_Schedulers_Simulator_A3\\src\\com\\company\\graph.png");
+        File file = new File("/home/seif/Desktop/projects/OS/CPU_Schedulers_Simulator_A3/src/com/company/graph.png");
         try {
             ImageIO.write(chartImage,"png",file);
         } catch (IOException e) {
