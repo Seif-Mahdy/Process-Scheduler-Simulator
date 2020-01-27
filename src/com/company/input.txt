@@ -1,0 +1,11 @@
+6
+0
+1
+AG
+p1 Red 5 1 1
+p2 Green 5 3 1
+p3 Blue 2 6 5
+p4 Yellow 4 4 10
+p5 Cyan 3 4 3
+p6 Pink 21 3 2
+
